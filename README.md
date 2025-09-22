@@ -38,7 +38,7 @@ Python dependencies (already included in `requirements.txt`):
 git clone https://github.com/TannaPrasanthkumar/svara-reply-classifier.git
 cd svara-reply-classifier
 ```
-###2. Create and activate a virtual environment
+### 2. Create and activate a virtual environment
 ```bash
 # On Mac/Linux
 python3 -m venv venv
